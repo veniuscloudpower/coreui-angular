@@ -1,4 +1,4 @@
-import { INavData } from '../../dist/@coreui/angular/lib/sidebar/public_api';
+import { INavData } from '@coreui/angular/lib/sidebar/public_api';
 
 export const navItems: INavData[] = [
   {
